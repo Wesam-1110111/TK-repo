@@ -11,7 +11,27 @@ It provides a simple way to create windows, buttons, text fields, labels, and ot
 4. Event-driven programming: You can bind functions to events like button clicks, key presses, etc.
 
 ### Basic Example:
-``import tkinter as tk  # Create the main window  root = tk.Tk()  # Set window title  root.title("Hello Tkinter")  # Create a label widget  label = tk.Label(root, text="Hello, Tkinter!")  label.pack()  # Run the application  root.mainloop()``
+```python
+import tkinter as tk
+
+# Create the main window
+root = tk.Tk()
+
+# Set window title
+root.title("Hello Tkinter")
+
+# Set window size
+root.geometry('400x300')
+
+# Create a label widget
+label = tk.Label(root, text="Hello, Tkinter!")
+label.pack()
+
+# Run the application
+root.mainloop()
+```
+**The result:**
+<img src="Screenshot.png">
 
 ## First:
 First thing you need to install ``tkinter``,  
