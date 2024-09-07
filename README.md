@@ -5,10 +5,10 @@
 It provides a simple way to create windows, buttons, text fields, labels, and other common GUI components.  
 
 ### Key Features of Thinter:
-1. Cross-platform: Works on Windows, macOS, and Linux.
-2. Lightweight: Simple and easy to learn, making it a good choice for small applications.
-3. Widgets: It provides various widgets like buttons, labels, frames, text boxes, etc.
-4. Event-driven programming: You can bind functions to events like button clicks, key presses, etc.
+1. **Cross-platform:** Works on Windows, macOS, and Linux.
+2. **Lightweight:** Simple and easy to learn, making it a good choice for small applications.
+3. **Widgets:** It provides various widgets like buttons, labels, frames, text boxes, etc.
+4. **Event-driven programming:** You can bind functions to events like button clicks, key presses, etc.
 
 ### Basic Example:
 ```python
