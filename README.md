@@ -33,11 +33,11 @@ root.mainloop()
 **The result:**
 <img src="Screenshot.png">
 
-## First:
+### First:
 First thing you need to install ``tkinter``,  
 to install it run: ``pip install tkinter`` in your terminal/cmd.
 
-## After that:
+### After that:
 in python file import the library: ``import tkinter as tk``.
 
 ## Learn for free:
