@@ -1,6 +1,6 @@
 # Tkinter
 
-## What is Tkinter:
+### What is Tkinter:
 **Tkinter** is the standard Python library used for creating graphical user interfaces (GUIs).  
 It provides a simple way to create windows, buttons, text fields, labels, and other common GUI components.  
 
